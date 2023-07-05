@@ -17,9 +17,9 @@ ________________________________________________________________________________
 
 Discord
 
-No Discord é necessário criar um SERVER para envio dos alertas.
-Será criado automaticamente um TEXT CHANNEL.
-No CHANNEL desejado clique em "EDIT CHANNEL" > Integrations > Webhooks > Crie uma Webhook para os alertas do Docker e será gerada uma Webhook URL.
+No Discord é necessário criar um SERVER para envio dos alertas.  
+Será criado automaticamente um TEXT CHANNEL.  
+No CHANNEL desejado clique em "EDIT CHANNEL" > Integrations > Webhooks > Crie uma Webhook para os alertas do Docker e será gerada uma Webhook URL.  
 
 
 Referências
