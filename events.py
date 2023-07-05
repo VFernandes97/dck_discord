@@ -5,7 +5,7 @@ import requests
 
 client = docker.DockerClient(base_url='unix://var/run/docker.sock') # Pode ser usado o tcp://127.0.0.1:2375 caso a API do docker seja conectada via socket.
 
-webhook_url="DiscordWebhook"
+webhook_url="DiscordWebhook"#Alterar com o endereço da webhook dentro do seu server do Discord.
 
 for event in client.events(decode=True, filters={"event": "die"}):
   container_id = event["id"]
