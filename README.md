@@ -1,5 +1,5 @@
 Repositório com o objetivo de realizar integração do Docker com o Discord gerando alertas quando um container é parado.  
-
+__________________________________________________________________________________________________________________________________
 Requisitos  
 
 Host 
@@ -26,3 +26,6 @@ Referências
 
 https://discord.com/developers/docs/resources/webhook#execute-webhook
 https://docker-py.readthedocs.io/en/stable/
+
+Créditos
+
