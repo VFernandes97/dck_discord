@@ -29,3 +29,4 @@ https://docker-py.readthedocs.io/en/stable/
 
 Créditos
 
+Aprendizado adquirido na Comunidade Devops by @mateusmuller
