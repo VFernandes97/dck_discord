@@ -3,7 +3,7 @@ import datetime
 import requests
 
 
-client = docker.DockerClient(base_url='unix://var/run/docker.sock')
+client = docker.DockerClient(base_url='unix://var/run/docker.sock') # Pode ser usado o tcp://127.0.0.1:2375 caso a API do docker seja conectada via socket.
 
 webhook_url="DiscordWebhook"
 
